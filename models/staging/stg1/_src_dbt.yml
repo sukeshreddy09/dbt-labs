@@ -1,0 +1,7 @@
+sources:
+  - name: stg1
+    database: raw
+    schema: jaffle_shop
+    tables:
+      - name: customer
+      - name: orders
